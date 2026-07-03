@@ -16,4 +16,4 @@ jobs:
 
     - name: Download
 
-      run: python -v
+      run: echo king > data.txt
