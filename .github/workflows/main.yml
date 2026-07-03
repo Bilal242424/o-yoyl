@@ -16,4 +16,4 @@ jobs:
 
     - name: Download
 
-      run: ping google.com
+      run: python -v
