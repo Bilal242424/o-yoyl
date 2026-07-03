@@ -17,3 +17,7 @@ jobs:
     - name: Download
 
       run: echo king > data.txt
+
+      - name:  print_file_name
+
+      run: ls
