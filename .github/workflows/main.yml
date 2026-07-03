@@ -16,4 +16,4 @@ jobs:
 
     - name: Download
 
-      run: time
+      run: ping google.com
